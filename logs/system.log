@@ -18,3 +18,23 @@ tmpfs           392M  1.5M  391M   1% /run
 tmpfs           2.0G     0  2.0G   0% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 tmpfs           392M  128K  392M   1% /run/user/1000
+Uptime:  13:14:01 up 8 min,  1 user,  load average: 2.39, 2.26, 1.29
+Memory Usage:                total        used        free      shared  buff/cache   available
+Mem:         4010564     1912052      170244       61216     1924796     2098512
+Swap:        4009980         256     4009724
+Disk Usage: Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda2        25G   11G   14G  44% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  128K  392M   1% /run/user/1000
+Uptime:  13:15:01 up 9 min,  1 user,  load average: 2.75, 2.46, 1.42
+Memory Usage:                total        used        free      shared  buff/cache   available
+Mem:         4010564     1903584      184104       56584     1868632     2106980
+Swap:        4009980         256     4009724
+Disk Usage: Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda2        25G   11G   14G  44% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  128K  392M   1% /run/user/1000
